@@ -1,4 +1,7 @@
 # morethan-log
+git add .
+git commit -m "chore: test new deployment for fluid compute"
+git push origin main
 
 <img width="1715" alt="image" src="https://user-images.githubusercontent.com/72514247/209824600-ca9c8acc-6d2d-4041-9931-43e34b8a9a5f.png">
 
